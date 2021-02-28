@@ -8,7 +8,7 @@ tags: life learn
 
 <img 
     data-src="https://res.cloudinary.com/nhandle/image/upload/w_auto,c_scale/post-covid-19-new-normal_okzvxl.png" 
-    alt="Các bạn dân tộc... và ba"
+    alt="New normal"
     class="cld-responsive">
 
 Việc con học online qua phần mềm `Microsoft Teams` gây cho mình nhiều sự quan tâm và chú ý.
