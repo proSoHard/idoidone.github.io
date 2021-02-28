@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+
+    {%- include header.html -%}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+    <script type="text/javascript">
+      var cl = cloudinary.Cloudinary.new({ cloud_name: "nhandle" });
+      cl.responsive();
+    </script>
+
+  </body>
+
+</html>
