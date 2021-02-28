@@ -5,6 +5,12 @@ date:   2021-02-27 16:31:08 +0700
 permalink: /blog/kem-micro-frontends
 tags: life learn
 ---
+
+<img 
+    data-src="https://res.cloudinary.com/nhandle/image/upload/w_auto,c_scale/post-covid-19-new-normal_okzvxl.png" 
+    alt="Các bạn dân tộc... và ba"
+    class="cld-responsive">
+
 Việc con học online qua phần mềm `Microsoft Teams` gây cho mình nhiều sự quan tâm và chú ý.
 
 Đã mấy ngày vợ càu nhàu về việc mãi không in bài tập cho con.
